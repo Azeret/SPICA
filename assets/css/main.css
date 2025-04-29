@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #a69bd6 /*#ffffff*/;
+		color:  #ffffff;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -1914,7 +1914,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #a69bd6 /*#ffffff*/;
+			background-color: #ffffff;
 			color:  #202041/*#312450*/ !important;
 		}
 
