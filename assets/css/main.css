@@ -3909,3 +3909,20 @@ input, select, textarea {
 			}
 
 		}
+
+		/* Responsive logo behavior */
+#spica-logo {
+	max-width: 350px;
+}
+
+@media (max-width: 768px) {
+	#spica-logo {
+		max-width: 150px;
+	}
+}
+
+@media (max-width: 480px) {
+	#spica-logo {
+		max-width: 120px;
+	}
+}
